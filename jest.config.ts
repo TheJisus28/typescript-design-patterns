@@ -4,7 +4,7 @@ const config: Config = {
   preset: "ts-jest",
   testEnvironment: "node",
   moduleFileExtensions: ["ts", "js", "json", "node"],
-  testMatch: ["**/tests/**/*.test.ts"],
+  testMatch: ["**/src/**/*.test.ts"],
 };
 
 export default config;
