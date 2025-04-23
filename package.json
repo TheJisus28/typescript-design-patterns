@@ -6,7 +6,9 @@
   "type": "module",
   "scripts": {
     "singleton": " tsx src/creational/singleton/Main.ts",
-    "singleton:test": "jest Singleton.test.ts"
+    "singleton:test": "jest Singleton.test.ts,",
+    "factory": " tsx src/creational/factory/Main.ts",
+    "factory:test": "jest Factory.test.ts"
   },
   "repository": {
     "type": "git",
