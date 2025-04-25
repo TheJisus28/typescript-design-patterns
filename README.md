@@ -100,7 +100,7 @@ _You can find all available scripts in package.json._
 ### Creational
 
 - ✅ Singleton
-- 🔜 Factory
+- ✅ Factory
 - 🔜 Other creational patterns...
 
 ### Structural
